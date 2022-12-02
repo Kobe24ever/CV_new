@@ -1,0 +1,67 @@
+
+body{
+
+  margin: 0px;
+  text-align: center;
+  font-family: Garamond, sans-serif;
+}
+
+h1{
+
+  margin: 0px;
+  font-family: Garamond, cursive;
+
+}
+
+h2{
+
+
+}
+
+
+h3{
+
+
+}
+
+.top{
+
+background-color: #DEF5E5;
+position: relative;
+padding-top: 100px;
+
+}
+
+.middle{
+
+position: relative;
+
+}
+
+.bottom{
+
+
+}
+
+
+.shebeb{
+
+  text-decoration: underline;
+
+}
+
+.bottom-cloud{
+
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+
+
+.top-cloud{
+
+position: absolute;
+right: 300px;
+top: 50px;
+
+}
